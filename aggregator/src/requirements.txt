@@ -1,0 +1,10 @@
+Flask==2.1.2
+hexbytes==0.2.2
+iota==1.4.20
+PyOTA==2.1.0
+python-dotenv==0.20.0
+rsa==4.8
+shortuuid==1.0.8
+web3==5.28.0
+eth_keys==0.4.0
+pyserial==3.5

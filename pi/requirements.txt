@@ -1,0 +1,4 @@
+eth_keys==0.4.0
+pyserial==3.5
+python-dotenv==0.20.0
+shortuuid==1.0.8
